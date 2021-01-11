@@ -2,20 +2,16 @@
 
 ### Neural Networks and Deep Learning：
 
-![](Neural Networks and Deep Learning/Note-Neural Networks and Deep Learning.png)
+<img src="Neural Networks and Deep Learning/Note-Neural Networks and Deep Learning.png">
 
 ### Improving Deep Neural Networks：
 
-![](Improving Deep Neural Networks/Note-Improving Deep Neural Networks.png)
+<img src="Improving Deep Neural Networks/Note-Improving Deep Neural Networks.png">
 
 ### Structuring Machine Learning Projects：
 
-![](Structuring Machine Learning Projects/Note-Structuring Machine Learning Projects.png)
+<img src="Structuring Machine Learning Projects/Note-Structuring Machine Learning Projects.png">
 
 ### Convolutional Neural Networks：
 
-![](Convolutional Neural Networks/Note-Convolutional Neural Networks.png)
-
-### Sequence Models：
-
-![](Sequence Models/Note-Sequence Models.png)
+<img src="Convolutional Neural Networks/Note-Convolutional Neural Networks.png">
